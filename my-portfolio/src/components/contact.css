@@ -1,0 +1,26 @@
+/* src/components/Contact.css */
+.contact-section {
+    padding: 100px 20px;
+  }
+  
+  .contact-section h2 {
+    font-size: 36px;
+    color: #ff69b4;
+  }
+  
+  .contact-links {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact-links li {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .contact-links a {
+    color: #ff69b4;
+    text-decoration: none;
+  }
+  
